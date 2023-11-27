@@ -1,0 +1,31 @@
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 1em;
+}
+
+img { 
+    width: 100px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: white;
+  }
+  
+  main {
+    margin: 0 auto;
+    width: 50vw;
+  }
+  
+  article {
+    background: white;
+    padding: 2em;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+  }
+  
+  strong {
+    font-family: monospace;
+  }
